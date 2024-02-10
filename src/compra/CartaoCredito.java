@@ -1,4 +1,4 @@
-package br.com.alura.FazFiado.compra;
+package compra;
 
 import java.util.ArrayList;
 import java.util.List;

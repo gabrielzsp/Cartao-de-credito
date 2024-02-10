@@ -1,7 +1,7 @@
-package br.com.alura.FazFiado.principal;
+package main;
 
-import br.com.alura.FazFiado.compra.CartaoCredito;
-import br.com.alura.FazFiado.compra.Compra;
+import compra.CartaoCredito;
+import compra.Compra;
 
 import java.util.Collections;
 import java.util.Scanner;

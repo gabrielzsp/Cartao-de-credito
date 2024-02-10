@@ -1,4 +1,4 @@
-package br.com.alura.FazFiado.compra;
+package compra;
 
 public class Compra implements Comparable<Compra>{
     private String nomeProduto;
@@ -19,7 +19,7 @@ public class Compra implements Comparable<Compra>{
 
     @Override
     public String toString() {
-        return "Compra: " +
+        return "CartaoDeCredito.Compra: " +
                "Descricao = " + nomeProduto +
                "Valor = " + valorProduto;
     }
